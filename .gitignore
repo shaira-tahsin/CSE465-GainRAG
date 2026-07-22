@@ -1,0 +1,12 @@
+@"
+.env
+*.key
+craftx_key.txt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pt
+*.bin
+*.safetensors
+.cache/
+"@ | Out-File -Encoding utf8 .gitignore
