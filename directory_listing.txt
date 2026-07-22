@@ -1,0 +1,107 @@
+Files and folders in D:\SHAIRA - NSU\12th Semester\CSE465..4\Project\GainRAG\GainRAG:
+
+├── .git/
+│   ├── config
+│   ├── description
+│   ├── HEAD
+│   ├── index
+│   ├── opencode
+│   ├── packed-refs
+│   ├── hooks/
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── info/
+│   │   └── exclude
+│   ├── logs/
+│   │   ├── HEAD
+│   │   └── refs/
+│   │       ├── heads/
+│   │       │   └── master
+│   │       └── remotes/
+│   │           └── origin/
+│   │               └── HEAD
+│   ├── objects/
+│   │   └── pack/
+│   │       ├── pack-8420a0704036c3a3f0f19c84601e003b286fd774.idx
+│   │       ├── pack-8420a0704036c3a3f0f19c84601e003b286fd774.pack
+│   │       └── pack-8420a0704036c3a3f0f19c84601e003b286fd774.rev
+│   └── refs/
+│       ├── heads/
+│       │   └── master
+│       └── remotes/
+│           └── origin/
+│               └── HEAD
+├── directory_listing.txt
+├── images/
+│   ├── framework.png
+│   └── test
+├── README.md
+├── requirements.txt
+└── GainRAG/
+    ├── data/
+    │   ├── data2selector.py
+    │   ├── data_filter.py
+    │   ├── eval_data/
+    │   │   └── log
+    │   └── finetune_data/
+    │       └── log
+    ├── gainRAG/
+    │   ├── __init__.py
+    │   ├── evaluation/
+    │   │   ├── __init__.py
+    │   │   └── evaluation.py
+    │   ├── llm_inference/
+    │   │   ├── __init__.py
+    │   │   ├── build_prompts.py
+    │   │   ├── inference_hf.py
+    │   │   └── inference_vllm.py
+    │   ├── llm_supervision/
+    │   │   ├── __init__.py
+    │   │   ├── construct_hf.py
+    │   │   ├── construct_vllm.py
+    │   │   ├── decoding.py
+    │   │   └── filtering.py
+    │   ├── rag_workflow/
+    │   │   ├── __init__.py
+    │   │   ├── prompts.py
+    │   │   ├── rag_generation.py
+    │   │   └── run_baselines.py
+    │   ├── retrieval_engine/
+    │   │   ├── index.py
+    │   │   ├── modeling.py
+    │   │   ├── normalize.py
+    │   │   ├── passage_embed.py
+    │   │   └── retrieval.py
+    │   ├── selector_engine/
+    │   │   ├── __init__.py
+    │   │   └── selector_gainRag.py
+    │   └── selector_finetune/
+    │       ├── __main__.py
+    │       ├── modeling.py
+    │       ├── runner.py
+    │       ├── trainer.py
+    │       └── abc/
+    │           ├── __init__.py
+    │           ├── AbsArguments.py
+    │           ├── AbsDataset.py
+    │           ├── AbsModeling.py
+    │           ├── AbsRunner.py
+    │           └── AbsTrainer.py
+    └── scripts/
+        ├── llm_supervision.sh
+        ├── rag_generation.sh
+        ├── run_baselines.sh
+        ├── selector_engine.sh
+        └── selector_finetune.sh
