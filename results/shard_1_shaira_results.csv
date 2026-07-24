@@ -1,0 +1,124 @@
+question_id,question,gold_answer,best_passage_title,best_passage_gain_PPL_CD,best_passage_is_supporting
+5a713b325542994082a3e6b5,What was the capital of India when the Taj Mahal was commissioned?,Agra,Agra Fort,1.001,TRUE
+5a7140585542994082a3e6fa,Seal Harris was born in what county?,Polk County,"Cedartown, Georgia",1.01,TRUE
+5a71674f5542994082a3e819,When was the magazine Sam Duckworth got his name Get Cape. Wear Cape. Fly from launched?,Jan-04,Jason Perry (singer),78.807,FALSE
+5a716ec85542994082a3e82d,"Which movie was filmed first ""The Guest"" or ""You're Next""?",You're Next,You're Next,1.83,TRUE
+5a7180205542994082a3e856,"The creator of ""Wallace and Gromit"" also created what animation comedy that matched animated zoo animals with a soundtrack of people talking about their homes? ",Creature Comforts,Creature Comforts,1.043,TRUE
+5a722fae55429971e9dc9343,"What is the name of the daughter of the Irish entertainer in the girl band Maxi, Dick and Twink?",Chloë Alexandra Adele Emily Agnew,Chloë Agnew,1.975,TRUE
+5a728f015542991f9a20c4e4,Which star of Zork was also the voice of Pac-Man?,Martin Ingerman,Marty Ingels,3.371,TRUE
+5a7299e75542991f9a20c524,"What movie was released at a later date, My Dog Tulip or Monsters vs. Aliens?",Monsters vs. Aliens,Buchanan Brothers,1.001,FALSE
+5a72a0be5542992359bc3143,"This work of literature _______ , known by its Greek title Oedipus Tyrannus was argued by Sigmund Freud to be one of the greatest works of world literature in his 1928 article. ",Oedipus Rex,Dostoevsky and Parricide,1.003,TRUE
+5a72a3c45542994cef4bc3ac,"What is the birth name of the woman that ""A Woman Called Moses"" is based on?",Araminta Ross,Harriet Tubman,1,TRUE
+5a72f7df5542991f9a20c5d7,"Piers Bizony has written articles for which magazine based in Bristol, UK?",BBC Focus,BBC Focus,1.001,TRUE
+5a7323ef5542994cef4bc477,Which battle took place first out of the Battle of the Ch'ongch'on River and the Battle of Tarawa?,The Battle of Tarawa,Battle of Tarawa,1.217,TRUE
+5a733b835542991f9a20c6b2,"Which movie is loosley based off the Brother Grimm's ""Iron Henry""?",The Frog Prince,The Well of the World's End,3.107,FALSE
+5a7344e95542991f9a20c6ce,What song was number 4 on the charts when a song from FutureSex/LoveSounds was number 1?,Rudebox,Rudebox (song),1.928,TRUE
+5a7351785542994cef4bc539,Was Atom Egoyans biggest commercial success on stage or on film?,erotic thriller film,Chloe (film),1473.746,TRUE
+5a73630655429901807db020,"Who was born first, Antonin Artaud or  Elizabeth Taylor?",Antonin Artaud,Theatre of Cruelty,1,FALSE
+5a73677455429901807db030,"Of the companies that sponsor the British League Riders Championship, which is owned and operated by Goodyear Tire and Rubber Company?",Dunlop,British League Riders' Championship,1,TRUE
+5a736f7c5542991f29ee2e18,"Which legal, autonomous North American tribal government signed its constitution in Oklahoma on September 6, 1839?",The Cherokee Nation,Cherokee Nation (1794–1907),1.069,TRUE
+5a737e4655429908901be2cc,This Fox News Specialist Host also took over what Fox Business Channel news program in 2013?,Cashin' In,Eric Bolling,1.708,TRUE
+5a738093554299623ed4abbb,Alex Haley wrote what novel about a man that was born in 1750?,Roots: The Saga of an American Family,Roots: The Saga of an American Family,1.021,TRUE
+5a73977d554299623ed4ac08,What is the shared country of ancestry between Art Laboe and Scout Tufankjian?,Armenian,Art Laboe,2.28,TRUE
+5a73b8d655429908901be31f,"Which university is further North,  University of New Hampshire or Stony Brook University?",Stony Brook University,University of New Hampshire,1.056,TRUE
+5a746a4455429974ef308bf6,Which tennis player is older out of John Peers and Simone Bolelli?,Simone Bolelli,2015 Trofeo Faip–Perrel – Singles,1.055,FALSE
+5a74af7e55429916b01641d2,"Who was born first, Johan Leysen or George Clooney?",Johan Leysen,Johan Leysen,1.002,TRUE
+5a74b4dc55429979e2882a00,Which former lead guitarist has a solo album named two disc compilation album?,Ted Nugent,Hunt Music,1,TRUE
+5a74f3f55542993748c8974b,"What movie was the actor born on May 4, 1946 involved in in 1972?",Five Summer Stories,Five Summer Stories,1.015,TRUE
+5a7503945542996c70cfae76,"Which Lithuanian-Canadian anthropologist, primatologist, conservationist, ethologist, and author was chosen by  Louis Leakey, along with Jane Goodall, Dian Fossey to study hominids in their natural environments?",Birutė Marija Filomena Galdikas,Birutė Galdikas,1.471,TRUE
+5a7506f455429916b0164240,Connetquot High School  is a public high school in what city in New York?,Oakdale,"Oakdale, New York",1.854,TRUE
+5a7509175542993748c897a3,What group of Elektra Records recording artists are known to be an indie pop band?,Saint Motel,Saint Motel,1,TRUE
+5a75092b55429916b0164242,What third film in a franchise did Camile Delamarre edit?,Transporter 3,Transporter 3,1,TRUE
+5a751bbe5542993748c897ba,Which 1962 film starring Tom Courtenay is based on a short story of the same name?,The Loneliness of the Long Distance Runner,The Loneliness of the Long Distance Runner (film),1.002,TRUE
+5a7525405542993748c897ce,"What is the name of the American author, songwriter, educator, lawyer, diplomat, civil rights activist and husband to Grace Nail Johnson who was the first African American executive secretary of the National Association for the Advancement of Colored People (NAACP)?",James Weldon Johnson,James Weldon Johnson,1,TRUE
+5a7526945542993748c897d2,What year did the movement that Tess Asplund protested in the viral image of her with her fist in the air disband?,2016,Nordic Resistance Movement,1,TRUE
+5a752fb75542993748c897df,"What pop band features an Argentine actress that appeared in the television series ""Chiquititas""?",Erreway,Sweet Baby (Erreway song),1,TRUE
+5a75436155429974ef308cbc,The Pluralist school is said to have included what creator of the theory of atomism? ,Leucippus,Pluralist school,1,TRUE
+5a75462d5542996c70cfaed3,"Who was born first, Kwok Kin Pong or Edison Chen?",Edison Koon-hei Chen,Edison Chen,4.326,TRUE
+5a75d45f5542994ccc918630,"Which refers to more breeds, Stabyhoun or Griffon Bruxellois?",Griffon Bruxellois,Canine Chiari-like malformation,1.043,FALSE
+5a75da6d5542992db94736fa,"The Declaration of Montreal was the founding document of which world event, lasting from July 26-August 5, 2006?",The 1st World Outgames,2006 World Outgames,1.51,TRUE
+5a75e06155429976ec32bc60,Who was the running mate of the man about whose candidacy the 2016 book Insane Clown President: Dispatches from the 2016 Circus documents?,Mike Pence,Insane Clown President,1,TRUE
+5a75e67f55429976ec32bc8b,"Robert Jan van Pelt testified for the defense in this ""Churchill's War"" author's civil libel suit?",David Irving,Robert Jan van Pelt,5.406,TRUE
+5a75fa8c55429976ec32bcda,Who composed music for this 1941 American animated film with the main character of Jumbo Jr.?,Dan Crow,Dan Crow (musician),1,TRUE
+5a760ab65542994ccc918697,Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under which United States Vice President?,Nelson Rockefeller,Nelson Rockefeller,1.001,TRUE
+5a7616755542992d0ec06028,"Where is the county seat for people living in Henderson Point, Mississippi?","Gulfport, Biloxi","Henderson Point, Mississippi",3.158,TRUE
+5a7625e8554299109176e66a,In which year was the King who made the 1925 Birthday Honours born?,1865,George V,1,TRUE
+5a76334c5542994ccc918710,Where is the author of Killing Pablo: The Hunt for the World's Greatest Outlaw (2001) born?,"St. Louis, Missouri",Mark Bowden,1,TRUE
+5a7634f155429976ec32bd6b,"What shallow water table aquifer is located near the county seat of Keith County, Nebraska?",Ogallala Aquifer,Ogallala Aquifer,1.001,TRUE
+5a7652435542992d0ec060a5,"Who was the first Russian composer to make a lasting impression internationally, Alessandro Scarlatti or Pyotr Ilyich Tchaikovsky?",Pyotr Ilyich Tchaikovsky,Swan Lake (1895),1,FALSE
+5a76641e5542992d0ec060d8,What American actress who died in 2011 starred in Fear Stalk?,Sada Thompson,Sada Thompson,1.005,TRUE
+5a76a8bb5542993569682c76,In what country did Gildo Siopaes win a bronze medal for bobsledding in the 1964 Winter Olympics?,Austria,Innsbruck,1.009,TRUE
+5a76f45a5542994aec3b719b,"What band formed in 1995 and came out with an album called ""Welcome Interstate Managers'?",Fountains of Wayne,Jody Porter,1,FALSE
+5a77137455429972597f142a,"Who died more recently, Ferdinand Anton Ernst Porsche or Ferdinand Porsche",Ferdinand Anton Ernst Porsche,Ferdinand Anton Ernst Porsche,1.007,TRUE
+5a771ead55429966f1a36c7c,Who starred as an American attorney in Grey Gardens?,Ken Howard,Grey Gardens (2009 film),1.006,TRUE
+5a772c925542993735360208,Which was published first Polarity or The Farming Game?,The Farming Game,The Farming Game,1,TRUE
+5a77415b55429966f1a36cd2,What actor from Northern Ireland born in 1983 starred in Whole Lotta Sole?,"Martin ""Marty"" McCann",Martin McCann (actor),1.082,TRUE
+5a7758895542994aec3b729c," Which American rock band, Sugar Ray or Against the Current gained mainstream fame in the 1990's?",rock,When It's Over (Sugar Ray song),333448837.2,FALSE
+5a77666555429966f1a36d1f,What is the nationality of the foreign born victim of Singapore's caning punishment before Oliver Fricker experienced the same?,American,Oliver Fricker,5.322,TRUE
+5a77720255429967ab10517f,"In what year did both Orson Scott Card's novel ""Ender's Game"" and Keri Hulme's ""The Bone People"" come out?",1985,Orson Scott Card bibliography,1.009,FALSE
+5a778b345542992a6e59decf,"Who was born first, Susan Oliver or W. S. Van Dyke?",Woodbridge Strong Van Dyke II,W. S. Van Dyke,1.609,TRUE
+5a77984d5542992a6e59df14,What occupation do Henry Moore and John Wesley have in common?,minister,Henry Moore (biographer),57.006,TRUE
+5a77a7695542997042120ac4,"Which documentary is the oldest, The Private Life of Plants or Marx Reloaded?",The Private Life of Plants,The Private Life of Plants,1.001,TRUE
+5a77a9df55429967ab10521c,What British novelist born in November 1898 wrote Surprised by Joy: The Shape of My Early Life?,Clive Staples Lewis,C. S. Lewis,1.126,TRUE
+5a77ad2f55429967ab105225,Sony/Philips Digital Interface Format can transmit over what Toshiba optical fiber connector system?,"TOSLINK (from ""Toshiba Link"") is a standardized optical fiber connector system.",TOSLINK,2.144,TRUE
+5a77c3d55542995d831812af,Who was the head of the Imperial Family that was making an broadcast announcement of Japan's surrender in 1945?,Emperor of Japan,Masahiko Takeshita,16.782,TRUE
+5a77e70f5542992a6e59dfeb,"What is the title of the 1979 film adaptation of William Shakespeare's play in which the English poet, actor, political activist and dramatist who wrote wrote a number of book-length polemical poems such as ""Autogeddon"", ""Falling for a Dolphin"" and ""Whale Nation"" played a main character?",The Tempest,The Tempest (1979 film),1.027,TRUE
+5a78abbc554299148911f90c,Which bi-weekly publication ranked Schreiber Foods as number 81 in 2016.,Forbes ranked Schreiber Foods,Port Plaza Mall,7.701,FALSE
+5a78eff155429974737f790a,"What Happens in Vegas, an American comedy film starring Lake Bell, was released in what year?",2008,Lake Bell,1.001,TRUE
+5a79102a554299148911f9da,"This team which is moving from Oakland, California to Las Vegas Nevada with share its stadium with what college?","University of Nevada, Las Vegas",Señorita México,1.434,FALSE
+5a793bc95542994bb9456fc3,"Who was born first, Brooklyn Decker or Andy Roddick?",Andrew Stephen Roddick,Andy Roddick,15.48,TRUE
+5a79c9c05542994bb94570a5,"This man who was born on April 25th, 1947, was a member of this lower house of the Hawaii State Legislature.","Robert ""Bobby"" Bunda",Robert Bunda,6.773,TRUE
+5a79caec5542994bb94570ad,When was Leeds no longer called Elmet?,early 7th century,Elmet,3.238,TRUE
+5a7a030c5542996a35c17077,J.B. Scotts located on this 11 mile stretch in Albany New York and is also known by this name in Schenectady County?,State Street,"Central Avenue (Albany, New York)",1.018,TRUE
+5a7a11c85542996a35c170b4,What is the English translation of the name of the novel series which the Four III is the final installment of?,"""The Four Great Constables""",The Four (film),1.018,TRUE
+5a7a45425542990783324ee2,What American corporation owns Claim Jumper?,Landry's,"Landry's, Inc.",1,TRUE
+5a7a48c45542994f819ef1b7,With whom was a notable partner of Elena Krykanova a two-time Olympic champion with?,Oksana Grishuk,Oksana Grishuk,1.41,FALSE
+5a7a5b3a5542996c55b2dd71,What building is opposite the ceremonial meeting place of the Accession Council in the United Kingdom?,Mark Masons' Hall,"Mark Masons' Hall, London",2.34,TRUE
+5a7a77425542995eb53be83e,"Who has released more solo albums, Nick Carter or Brady Seals?",Brady Seals,Thompson Street (album),1.006,FALSE
+5a7a954855429941d65f26cd,"What album did John Lennon release before the one that contained the song ""How?""",John Lennon/Plastic Ono Band,Imagine (John Lennon album),1.061,TRUE
+5a7aa07d55429941d65f2703,"Who directed the film in which Catherine Ann ""Kate"" Bosworth made her debut?",Robert Redford,The Horse Whisperer (film),1.003,TRUE
+5a7ae2f2554299042af8f6aa,"Which sport has been played at the BayArena in Leverkusen, Germany, since 1958?",football,BayArena,6717.693,TRUE
+5a7af8fa55429927d897bf25,"Consider the band formed in 2015 by JYP Entertainment through the reality show ""Sixteen"". How many tracks are on the reissue of their third album?",13,Twicecoaster: Lane 2,1.37,TRUE
+5a7b1e22554299042af8f6e4,What award won by only twelve people has a man who Ted Kooshian has performed with won?,EGOT,Marvin Hamlisch,1.037,TRUE
+5a7b24fe55429931da12c9f7,"Which dog breed has more derivative breeds from the original, German Spitz or Norfolk Spaniel?",German Spitz,Pomeranian (dog),1.453,FALSE
+5a7b43735542992d025e67cb,what type of media does Ratatouille and PlayStation 3 have in common?,video game,Ratatouille (video game),11.101,TRUE
+5a7b88b45542997c3ec97201,Which of Damon Stoudamire's cousins once played college basketball for the University of Kentucky?,Terrence Jones,Terrence Jones,1,TRUE
+5a7b89a3554299294a54a9e3,A Big Daddy is a fictional character in a series that has sold more than how many copies? ,25 million copies,BioShock (series),1.361,TRUE
+5a7ba8fc5542995eb53be986,"Who was born first, Umar Israilov or Ramzan Kadyrov?",Ramzan Kadyrov,Ramzan Kadyrov,1,TRUE
+5a7bb7f2554299042af8f7b6,"What Cantonese slang term can mean both ""ghost man"" and to refer to Westerners?",Gweilo,Gweilo,1.005,TRUE
+5a7c17c95542990527d5544d,"A guitar player called Noodles is a longtime member of which band, The Smashing Pumpkins or The Offspring?",The Offspring,The Offspring,1,TRUE
+5a7c49dc55429935c91b514f,"The head of the Foreign Relations Department of the Rastriya Janashakti Party holds a degree that can be abbreviated MS, M.S., or ScM, in what field?",Engineering,Hari Bahadur Basnet,1.002,TRUE
+5a7c6bcc55429935c91b519c,Rock Springs is a collection of short stories by an author born in what year?,1944,Richard Ford,4.304,TRUE
+5a7c6c9d554299683c1c6302,In what county was Duffy Jackson born?,Nassau County,Duffy Jackson,1.129,TRUE
+5a7c8e7955429935c91b521a,Back Home is a children's historical novel adapted into a TV drama starring what English actress born in 1946?,Hayley Catherine Rose Vivien Mills,Hayley Mills,4.22,TRUE
+5a7c9d2e55429935c91b5261,"What legend that lends its name to a modern medical term, inspired the plot of the horror film Ghostkeeper?",Wendigo,Wendigo,1.001,TRUE
+5a7ca98f55429935c91b5288,What religion was the martyr to whom the Lady of the Valey statue is dedicated?,Christian,Saint George,1.002,TRUE
+5a7ce50f55429909bec76869,"In what year did the Danish plant ecologist who assisted a Danish chemist, famous for the introduction of the concept of pH die?",1974,Carsten Olsen,1.109,TRUE
+5a7cf59b55429909bec768c7, Who was born first Burton Cummings or Sharleen Spiteri?,Burton Lorne Cummings,Burton Cummings,15.26,TRUE
+5a7cfea2554299452d57babe,"Which aired first, Life After People or Werner Herzog Eats His Shoe?",Werner Herzog Eats His Shoe,Werner Herzog Eats His Shoe,1.001,TRUE
+5a7db62d5542997cc2c4747c,What German state was Karl Julius Perleb born in?,Baden-Württemberg,Freiburg im Breisgau,1.028,TRUE
+5a7dbb295542990b8f503a4b,"Which Russian professional ice hockey player, known as the Magic Man, was the final recipient of the NHL Plus-Minus Award?",Pavel Valerievich Datsyuk,Pavel Datsyuk,2.682,TRUE
+5a7dbc175542995ed0d1666b,What russian Marxist revolutionary born in 1875 was part of the Vpered organization?,Anatoly Vasilyevich Lunacharsky,Anatoly Lunacharsky,2.294,TRUE
+5a7e1cad55429965cec5ea75,Was Pocahontas made before Born in China?,yes,Born in China,52838.745,TRUE
+5a7e32905542991319bc943b,Jennifer Jones captained the gold medalists for Canada at the Sochi Winter Olympics in which event?,Curling,Jennifer Jones (curler),1,TRUE
+5a7e3b585542995ed0d166df,"Which film was released first, Home on the Range or Pete's Dragon?",Home on the Range,Pete's Dragon (2016 film),1.943,TRUE
+5a7e4af3554299495941998c,The founder of the Ali Akbar College of Music was known for his virtuosity in what musical instrument?,the sarod,Ali Akbar Khan,24.74,TRUE
+5a7e6f295542991319bc94b1,"Who gave the mother of Alberic II of Spoleto the title ""patricia"" of Rome?",Pope John X,Marozia,1,TRUE
+5a7e86245542991319bc94ce,Who was the New York City Fire Commissioner at the time of Providenza Panno's death?,Rhinelander Waldo,Rhinelander Waldo,1,TRUE
+5a7e910a554299306751357f,Who was the artist that recorded a duet in 1985 for the CBS TV series 'Dallas' with an artist that was born in 1951 and has twenty #1 hits?,Gary Morris,Makin' Up for Lost Time (The Dallas Lovers' Song),5.845,TRUE
+5a7eacd855429930675135c3,"What is the nationality of the actor who was a leading man of Michèle Mercier and born on November 3, 1921?",American,Charles Bronson,1,TRUE
+5a7eb22655429930675135cb,Which current CBS NBA analyst played for the PORTLAND TRAILBLazers along with former UNLV teammate Stacey Augmon?,Greg Anthony,1998–99 Portland Trail Blazers season,1,TRUE
+5a7eec6f55429934daa2fc7c,The Hindmarsh Stadium is sponsored by a brewery that sold how many liters of beer in 2013 ?,69.7 million litres,Coopers Brewery,1.144,TRUE
+5a7f296f55429934daa2fd10,Live Wire Radio will possibly be considered as a replacement for a variety show created in what year?,1974,A Prairie Home Companion,1.001,TRUE
+5a7f38e255429930675136b6,"The Ronkonkama railroad station and the town of Islip, New York are near?",Long Island,North Creek Railroad Station,12.375,FALSE
+5a7f40055542992e7d278cc0, What did an English former footballer purchase in march 2009?,50 JJB Sports Fitness Clubs,DW Sports Fitness,1.425,TRUE
+5a7f48e15542992e7d278ce6,Brad Elterman is a professional photographer who addressed the rock 'n' roll lifestyle of a band that became noted for what?,its eclectic mix of musical styles,Blondie (band),9.919,TRUE
+5a7f6fd75542992e7d278cfa,"Which Canadian rock band released a song called ""Counterparts"" and had a drummer who was inducted into the Modern Drummer Hall of Fame?",Rush,Nobody's Hero,1,TRUE
+5a7f7c285542994857a76746,California joined the Union due to the passage of a package of how many separate bills?,five,Compromise of 1850,43.871,TRUE
+5a7fa0d55542995d8a8dded3,What professional do both Marc Bolan and Ian MacKaye share?,musician,Marc Bolan,30.63,TRUE
+5a7fa55555429969796c1b0e,"The star of ""The Inkwell"" also starred in what 1993 movie as O-Dog?",Menace II Society,Streiht Up Menace,1.003,FALSE
+5a7fb1765542992e7d278d20,Why does the City of Boston get their christmas tree from Ainslee Glen Nova Scotia?,for their assistance after the 1917 Halifax Explosion,Boston Christmas Tree,4.442,TRUE
+5a7fc8d05542992e7d278d86,"Which Air Force member was behind enemy lines for 11 1/2 days and had the largest,longest and most complex rescue mission?","Lieutenant Colonel Iceal E. ""Gene"" Hambleton",Iceal Hambleton,1.385,TRUE
+5a8010685542992bc0c4a69a,Jimmy Garcia lost by unanimous decision to a professional boxer that challenged for what title in 1995?,WBO lightweight title,Genaro Hernández,8.855,TRUE
+5a801f215542992bc0c4a6b2,the first woman to be the chef de mission of an Australian Olympic team won gold medal in which winter Olympics ?,2002 Winter Olympics,Alisa Camplin,3.629,TRUE
+5a8051265542992bc0c4a6f8,Tommy Swerdlow co-wrote the screenplay of what film directed by Jon Turteltaub?,Cool Runnings,Cool Runnings,1,TRUE
