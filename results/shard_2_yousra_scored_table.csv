@@ -1,0 +1,126 @@
+question_id,question,gold_answers,best_passage_title,predicted_answer,em,f1
+5a8066d15542992097ad2fe8,What Nobel Laureate teaches at  Chapman University?,['Vernon Smith'],Journal of Behavioral Finance,Vernon Smith.,1,1.0
+5a806aca5542996402f6a503,Which characters are akin to goblins and were added to a Tilted Mill Entertainment video game in 2009?,['Orc characters'],Hinterland (video game),Orcs.,0,0.0
+5a806e01554299485f5985e5,Who starred in the 1991 American action comedy film The Hard Way and was featured on the roster of Rawkus Records?,['Mos Def'],Mos Def,Mos Def.,1,1.0
+5a80707e5542992bc0c4a70e,"The actress who played Laurie Keller in the episode ""Pilot"" of the show Cougartown won what award in 2011?","[""Critics' Choice Television Award for Best Supporting Actress in a Comedy Series""]",Busy Philipps,Critics' Choice Television Award for Best Supporting Actress in a Comedy Series.,1,1.0
+5a80735b554299485f5985f3,What location under Charing Cross railway station did G-A-Y move to?,['venue Heaven'],G-A-Y,Heaven.,0,0.6666666666666666
+5a8080365542992097ad2fed,"A vehicle that uses hydrogen as its onboard fuel for motive power is cosidered which, Flex-fuel or Bi-fuel?",['bi-fuel vehicles'],Hydrogen highway (Japan),Hydrogen fuel cell vehicle (HFCV).,0,0.0
+5a808f3f5542992097ad2ffd,"""The Empire Builder""'s Columbia River Subdivision was part of which line?",['Great Northern Railway'],James J. Hill,The Empire Builder's Columbia River Subdivision was part of the Great Northern Railway.,1,0.42857142857142855
+5a810221554299260e20a1f9,Who wrote the 1970 international hit song Murray Head is most recognized for?,['Andrew Lloyd Webber and Tim Rice'],Superstar (Jesus Christ Superstar song),Andrew Lloyd Webber and Tim Rice.,1,1.0
+5a81456855429938b614231e,"Between Valparaiso University and Old Dominion University, which institution has higher student enrollment?",['Old Dominion University'],Matt Quatraro,Old Dominion University.,1,1.0
+5a818387554299260e20a291,"Based on a True Story... is an album by which country music star, with the single My Eyes?",['Blake Shelton'],Based on a True Story...,Blake Shelton.,1,1.0
+5a8198565542995ce29dcc13,Are Ranger Rick and Tennis both sports magazines?,['no'],Tennis (magazine),"No, only Tennis is a sports magazine.",1,0.2857142857142857
+5a819e2755429903bc27b988,Nguyễn Văn Trỗi tried to assassinate a future ambassador from which US state ?,['Massachusetts'],Henry Cabot Lodge Jr.,Massachusetts,1,1.0
+5a81ad9855429903bc27b9a3,When did the 2005 Ladbrokes.com World Darts Championship begin?,['the day after Christmas Day'],Boxing Day,"I'm happy to help! However, I must clarify that the passage provided does not mention the 2005 Ladbrokes.com World Darts Championship. The passage only talks about Boxing Day, a holiday. To answer your question, I would need more information or a different passage.",0,0.04761904761904762
+5a81db0b5542990a1d231ee2,The 2005 film Remedy featured Frank Vincent from The Sopranos and several mob movies by which acclaimed director?,['Martin Scorsese'],Frank Vincent,Martin Scorsese.,1,1.0
+5a81e4e8554299676cceb140,In which University is Richard Williams' former assistant a member of the Athletics Hall of Fame?,['Campbellsville University'],Rick Stansbury,Campbellsville University.,1,1.0
+5a81e8ea5542995ce29dcc73,Who played the role of Nettie Harris in the 1985 film directed by Steven Spielberg?,['Akosua Gyamama Busia'],Akosua Busia,Whoopi Goldberg.,0,0.0
+5a81f85d55429926c1cdadca,The pilot and author of Highest Duty: My Search for What Really Matters was hired by which news station in 2011?,['CBS News'],Chesley Sullenberger,CBS News.,1,1.0
+5a8210f355429926c1cdae24,What award did the actor in Tales from the Crypt win?,['BAFTA TV Award Best Actor'],Peter Cushing,BAFTA TV Award.,0,0.7499999999999999
+5a8220db5542995ce29dccc1,Which was secretary to President Richard Nixon: Rose Mary Woods or H. R. Haldeman?,['Rose Mary Woods'],Rose Mary Woods,Rose Mary Woods.,1,1.0
+5a82301155429926c1cdae4a,How much was Ammon Bundy's son ordered to pay in grazing fees?,['over $1 million'],Bundy standoff,$1 million.,0,0.8
+5a823b355542990a1d231f6e,"Orson Scott Card first published his short story ""Killing Children"" in this American science-fiction magazine whose first issue was published when?",['1930'],Killing Children,Analog Science Fiction and Fact.,0,0.0
+5a8268215542995ce29dccfb,What other country does the league that Taylor Eric Kemp played in represents the sport's highest level besides the United States?,['Canada'],Taylor Kemp,Canada.,1,1.0
+5a828a7b55429954d2e2eb69,The retired American professional basketball player Walt Williams attended this institution in 1988 that is in which conference today?,['Big Ten Conference'],Maryland Terrapins men's basketball,Big Ten Conference.,1,1.0
+5a8327fd5542990548d0b1a3,"Forest Hill, Texas is a suburb of which fifth-largest city in the state?",['Fort Worth'],"Forest Hill, Texas",Fort Worth.,1,1.0
+5a83411655429966c78a6b5d,Who created the NBC sitcom that Johnny Pemberton appears in as the character Bo Thompson?,['Justin Spitzer'],Superstore (TV series),Justin Spitzer.,1,1.0
+5a836a2d554299334474600f,What ended the career of the German composer of Bunte Blatter?,['hand injury'],Robert Schumann,Hand injury.,1,1.0
+5a83880e554299123d8c214e,Suicide's 1977 released album features a song based on what brand's comic character?,['Marvel'],Ghost Rider (Suicide song),Marvel Comics.,1,0.6666666666666666
+5a83a4bc554299123d8c217f,Bobby Arora is the trading director of a retail chain that was formed in what year?,['1978'],B &amp; M,1978,1,1.0
+5a83d0ed5542996488c2e4e7,Triangle Brewing Company was started by a founder who had experience as what non-commercial alcohol producer?,['homebrewer'],Triangle Brewing Company,Homebrewer.,1,1.0
+5a843f305542996488c2e51d,"When will Flicker, created by a member of One Direction, be released?","['October 20, 2017']",Flicker (album),"October 20, 2017.",1,1.0
+5a845b2d5542996488c2e520,Back Up n da Chevy was an album by the rap group from what city?,"['Atlanta, Georgia']",Boyz n da Hood,"Atlanta, Georgia.",1,1.0
+5a8481945542997175ce1ed3,Are Steve Perry and Leslie West both singers?,['yes'],For the Love of Strange Medicine,No.,0,0.0
+5a84995d5542997b5ce3fee4,Cooperative Living Organization is located in a city that is the county seat of what county in Florida?,['Alachua'],"Gainesville, Florida",Alachua County.,1,0.6666666666666666
+5a84af3e5542991dd0999d7c,"Which city in Missouri is the Route 66 State Park closest to travel from, St.Louis or Eureka?",['Eureka'],Route 66 State Park,Eureka.,1,1.0
+5a84bb825542991dd0999dbe,Who beacme a star as a comic book character created by Gerry Conway and Bob Oksner?,['Megalyn Echikunwoke'],Arrowverse,Vixen.,0,0.0
+5a84c4b05542991dd0999deb,Are both Forman Christian College and Purbanchal University public schools?,['no'],Purbanchal University,"No, one is a college and the other is a university.",1,0.2222222222222222
+5a84e61b5542997b5ce3ff86,"The Simpsons episode that aired on February 19, 2012 entitled ""At Long Last Leave"" represented what milestone for the show? ","[""show's 500th episode""]",The Simpsons (season 23),The 500th episode.,0,0.8
+5a84e9d35542994c784dda84,The Nike Mercurial Vapor is endorsed by a Stoke City football player who also plays for what national team?,['the Switzerland national team'],Stoke City F.C.,Peter Crouch.,0,0.0
+5a8510a25542994c784ddaf0,What profession does Stephen Jay Gould and Ann Beattie have in common?,['writer'],Ann Beattie,Both are writers.,1,0.0
+5a859a0c5542992a431d1b69,Do both Icehouse pieces and El Grande come from the same game?,['no'],Francisco Lemus Muñoz,"No, they do not.",1,0.4
+5a85b2ac5542991dd0999e90,Brad Budde played professionally for a team in the NFL that was founded in 1960 as the Dallas Texans by who?,['Lamar Hunt'],1960 NFL expansion draft,Lamar Hunt.,1,1.0
+5a85c3225542992a431d1b95,The 2000 ICC KnockOut Trophy was the debut of a Jamaican cricketer who is a right-handed what?,['middle order batsman'],Marlon Samuels,Middle-order batsman.,0,0.4
+5a86038455429960ec39b600,The winner of the the London Riders' Championship in 1953 scored how many points in the 1952 Individual Speedway World Championship?,['14'],1952 Individual Speedway World Championship,14 points.,1,0.6666666666666666
+5a860d09554299211dda2a53, What was the address of the building on U.S. Route 3 that was the tallest building in New Hampshire when completed in 1972?,['1000 Elm Street'],Brady Sullivan Plaza,1000 Elm Street.,1,1.0
+5a861c0d5542994775f606f7,"C. Bernard Jackson founded the center that started the career of which actor, who played the part of Marty Castillo in ""Miami Vice""?",['Edward James Olmos'],C. Bernard Jackson,Edward James Olmos.,1,1.0
+5a86296a55429960ec39b631,What was the job of the character Jack Nicholson played in a 1992 French-American biographical crime film directed by Danny DeVito?,['Teamsters leader'],Hoffa,Jack Nicholson played Jimmy Hoffa.,0,0.0
+5a8708ba55429960ec39b701,Snoop Dogg's Doggystyle and Snoop Dogg's Hustlaz: Diary of a Pimp are hip-hop music videos that feature what film genre?,['hardcore pornography'],Snoop Dogg's Doggystyle,Hardcore pornography.,1,1.0
+5a8752955542994775f607d1,"What was the name of the team that represented an Arizona university in the conference that covers a broad expanse of the western United States, including Arizona, California, and New Mexico?",['Arizona State Sun Devils'],1966 Arizona State Sun Devils football team,Arizona State University's team represented the Western Athletic Conference (WAC).,0,0.30769230769230765
+5a877dd65542993e715abf79,Were Halldór Laxness and Timothy Leary from the same country?,['no'],Halldór Laxness (album),No.,1,1.0
+5a879dae5542996e4f308885,What was the company that was co-owned by the person who Abbe error was named after?,['Carl Zeiss AG'],Ernst Abbe,Carl Zeiss AG.,1,1.0
+5a87ab9b5542996e4f3088c2,"In what century did this Native warrior and chief, whose brother Tenskwatawa led the Tippecanoe order of battle, become the primary leader of a large, multi tribal confederacy?",['nineteenth'],Tecumseh,The 19th century.,0,0.0
+5a87bd4e5542996432c57279,Who does the minister at The First Church of Springfield help make teaching evolution illegal?,['Ned Flanders'],The Monkey Suit,Ned Flanders and Reverend Lovejoy.,1,0.5714285714285715
+5a87c19a5542994846c1cde6,"Which shore does the castle, which Sir James Montgomery, 4th Baronet is the tenth laird of, stand?",['Firth of Clyde'],"Sir James Montgomery, 4th Baronet",Scotland.,0,0.0
+5a87d8355542993e715abfe4,"Which film was released first, Jawbreaker or Havenhurst?",['Jawbreaker'],Julie Benz,Jawbreaker (1999).,1,0.6666666666666666
+5a886c0c55429938390d3f51,Who owns the broadcasting platform where Games Done Quick is broadcast?,['Amazon.com'],Twitch.tv,Amazon.com.,1,1.0
+5a88940055429938390d3f7b,What is the city in which Bauerfield International Ariport is based out of?,['Port Vila'],Air Vanuatu,Port Vila.,1,1.0
+5a88fc4255429938390d4019,On what date will the comedy film directed by Kevin Tent and starring the Bulgarian-Canadian actress known for portraying the role of Mia Jones be released on video on demand services?,"['September 25, 2017']",Crash Pad,"September 25, 2017.",1,1.0
+5a8900c75542997e5c09a6ed,What ingredient is in both Cosmopolitan and Cuba Libre?,['lime'],Cosmopolitan (cocktail),Vodka.,0,0.0
+5a89432b554299669944a519,What was the code name of the campaign where Joe Foss received a Medal of Honor?,['Operation Watchtower'],Guadalcanal Campaign,Operation Watchtower.,1,1.0
+5a89d2d75542992e4fca83d2,What country of origin does Shawnee Trail and Great Indian Warpath have in common?,['American'],Shawnee Trail (West Virginia),United States.,0,0.0
+5a89e3995542992e4fca844d,H-63 is a highway that runs near the county seat of what Michigan county?,['Chippewa County'],"Sault Ste. Marie, Michigan",Chippewa County.,1,1.0
+5a89fb525542993b751ca9d6,Which composer created Night Ferry first performed in 2012 at Symphony Center in Chicago?,['Anna Clyne'],Night Ferry (composition),Anna Clyne.,1,1.0
+5a89fc305542993b751ca9dc,Which Outer Banks landmark and premiere BBQ restaurant has been featured in the magazine Southern Living?,"[""Pigman's Bar-B-Que""]",Pigmans Bar-B-Que,Pigman's Bar-B-Que.,1,1.0
+5a8a43eb5542996c9b8d5e82,Which Australian city founded in 1838 contains a boarding school opened by a Prime Minister of Australia and named after a school in London of the same name.,"['Marion, South Australia']","Marion, South Australia",Adelaide.,0,0.0
+5a8a58f355429930ff3c0da3,Were Daniel Mann and Todd Solondz both directors?,['yes'],Daniel Mann,No.,0,0.0
+5a8a5a1955429930ff3c0da7,"In what year was the Sayrevill, New Jersey rock band that Frankie LaRocka played drums for formed?",['1983'],Bon Jovi,1983,1,1.0
+5a8a5bd355429970aeb702b9,Falling Stars is a role-playing game published by the company based out of what country?,['Lithuania'],Nordcurrent,Lithuania.,1,1.0
+5a8a6b625542996c9b8d5ed9,In which town was the amusement park that is operated by Britannia Jinky Jersey Ltd located where the first  Tomorrow's Parties Festival was held?.,['Camber Sands'],All Tomorrow's Parties (festival),Camber Sands.,1,1.0
+5a8aeadc55429950cd6afbe0,What date in 2010 was a South Korean film starring  Kim Hyang-gi released?,"['January 14, 2010']",Wedding Dress (film),"January 14, 2010.",1,1.0
+5a8aecff55429950cd6afbef,How many beer brands are in the portfolio of the company that hired Leonardus (Leo) Petrus Beukeboom to decorate cafes?,['over 170'],Heineken brands,Over 170.,1,1.0
+5a8b128455429971feec463b,What city is the women's Vans Triple Crown of Surfing event hosted at?,['City and County of Honolulu'],"Haleiwa, Hawaii","Haleiwa, Hawaii.",0,0.0
+5a8b67b655429950cd6afcde,Who is the controlling shareholder of the world's fourth-largest tyre manufacturer?,['Jürgen M. Geissinger'],Juergen M. Geissinger,Schaeffler AG.,0,0.0
+5a8b78775542997f31a41d3d,"Chimaja Appawas the younger brother of a general of the Maratha Empire in India, who served as what to the fifth Maratha Chhatrapati Shahu from 1720 until his death?","['""Peshwa"" (Prime Minister)']",Baji Rao I,Peshwa.,0,0.5
+5a8b78f055429971feec471a,Was Steve Sekely and Willian King Baggot known by multiple names or nicknames?,['yes'],King Baggot,"Yes, King Baggot was known by multiple nicknames: ""King of the Movies"", ""The Most Photographed Man in the World"", and ""The Man Whose Face Is As Familiar As The Man In The Moon"".",1,0.07142857142857142
+5a8ba07d5542996e8ac88985,"What event in 1920 was established by the director of the play ""The Miracle?""",['Salzburg Festival'],Max Reinhardt,The Salzburg Festival.,1,1.0
+5a8ba60b554299240d9c205b,"Which composer, who was a crucial figure in the transition between the Classical and Romantic eras in Western art music, wrote Piano Sonata No. 16 ?",['Ludwig van Beethoven'],Piano Sonata No. 16 (Beethoven),Ludwig van Beethoven.,1,1.0
+5a8c5b635542996e8ac88a75,"Which breed, Chinese Chongqing Dog or Kanni, is used for hunting?",['Kanni'],Kanni,Kanni.,1,1.0
+5a8c758d5542995e66a475ff,"What netflix series, produced by Joe Swanberg, had an actress  best known for her role as Vanessa on ""Atlanta""?",['Easy'],Easy (TV series),Easy.,1,1.0
+5a8cb288554299585d9e3726,"The mass killing that took place at Oakland, California on April 2, 2012 was less deadly than the one that took place on October 1, 2015 in which state?",['Oregon'],Umpqua Community College shooting,Oregon.,1,1.0
+5a8cc8c2554299441c6b9efc,When did the author of the book One More River is based on win the Nobel Prize?,['1932'],John Galsworthy,1932.,1,1.0
+5a8cd6de55429941ae14df07,Charlotte Hatherley initially came to prominence in a band formed in what year?,['1992'],Ash (band),1992,1,1.0
+5a8d40715542994ba4e3dc3a,This annual event held in several major cities in Finland is one of many all-night arts festival whose name is given to areas of high latitude in the weeks around what?,['the summer solstice'],White Night festivals,Summer solstice in June.,1,0.6666666666666666
+5a8d7e1055429941ae14dfd8,"Which is bigger, Griffon Bruxellois or English Mastiff?",['English Mastiff'],Molossus of Epirus,English Mastiff.,1,1.0
+5a8d93bf554299068b959d46,Are both Yangzhou and Jiangyan District considered coastal cities?,['no'],Kingdom of Croatia (925–1102),No.,1,1.0
+5a8da97c554299068b959d84,"Which university offers more campuses in the Philippines, Fairleigh Dickinson University or the Western Institute of Technology?",['Western Institute of Technology'],Western Institute of Technology (Philippines),Western Institute of Technology.,1,1.0
+5a8dafbd554299068b959da0,How many episodes were made for the science fiction series with Gus Birney?,['ten'],The Mist (TV series),10,0,0.0
+5a8db2105542994ba4e3dd04,"The Government Digital Service is overseen by the Chief Secretary to the Treasury, who is from which party?",['Conservative'],Government Digital Service,Conservative Party.,1,0.6666666666666666
+5a8dbc8b554299441c6ba077,Spring Waltz starred the American actor who is known for what 2007 film?,['My Father'],Daniel Henney,"""My Father""",1,1.0
+5a8dcbc0554299068b959df4,"Many right wing WNP were  connected to a clandestine operation ran by a ""stay-behind""  operation ran by what organization?",['NATO'],Operation Gladio,NATO.,1,1.0
+5a8dd5b855429917b4a5bcc6,What political party is the current Attorney General of Missouri associated with?,['Republican'],Josh Hawley,Republican,1,1.0
+5a8e0d04554299068b959e3a,What country does Haringey Heartlands and The Mall Wood Green have in common?,['London'],Wood Green tube station,United Kingdom.,0,0.0
+5a8e4b7c5542990e94052ab7,What is the familial relationship of the founder of the Gulf Cartel to Juan García Ábrego?,['uncle'],Juan García Ábrego,Uncle.,1,1.0
+5a8e60ca5542995a26add4d9,In which movie the Stephanie Kay Panabaker was alongside with her elder sister Danielle Nicole Panabaker?,"['""Read It and Weep"" (2006)']",Danielle Panabaker,"""Read It and Weep"" (2006)",1,1.0
+5a8e83545542990e94052b28,Where was the founder of the Trussed Concrete Steel Company raised?,"['Detroit, Michigan']",Julius Kahn (inventor),"Detroit, Michigan.",1,1.0
+5a8e8bed5542990e94052b47,What United Kingdom Prime Minister was succeeded in the 1990s by the Leader of the Conservative Party?,['Margaret Thatcher'],"United Kingdom local elections, 1991",Margaret Thatcher.,1,1.0
+5a8e8d665542995085b3744e,What was the birth name of the start of Hwarang: The Poet Warrior Youth?,['Park Yong-gyu'],Park Seo-joon,Park Yong-gyu.,1,1.0
+5a8efba955429918e830d173,Who was the narrator of the 26-episode series which featured the British national museum organization with branches at five locations in England?,['Michael Redgrave'],The Great War (documentary),Michael Redgrave.,1,1.0
+5a8f06075542995b44241f2d,"What car did the German rally driver, who won victories for Fiat, Opel, Lancia, and Audi drive?",['The Lancia Rally'],Lancia Rally 037,Walter Röhrl.,0,0.0
+5a8f0796554299458435d528,"what air force based named in honor of Carl Benjamin ""Ben"" Eielson is located 26 miles southeast of Fairbanks, Alaska?",['Eielson Air Force Base'],"Moose Creek, Alaska",Eielson Air Force Base.,1,1.0
+5a8f08c2554299458435d530,"Sian Gibson co-wrote which British sitcom, set around a supermarket and car share scheme?","[""Peter Kay's Car Share""]",Peter Kay's Car Share,Peter Kay's Car Share.,1,1.0
+5a8f0986554299458435d535,Gerd Neggo trained under the founder of which type of dance analysis?,['Laban Movement Analysis'],Rudolf von Laban,Rudolf von Laban.,0,0.3333333333333333
+5a8f24cc55429924144829e7,Andrei Ivanovich Gorchakov commanded the 1st Infanty Corps in what major engagement of the Napoleonic Wars?,['Battle of Dresden'],Battle of Dresden,Battle of Dresden.,1,1.0
+5a8f503c5542992414482a34,"The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",['English'],Jeffrey Archer,English.,1,1.0
+5a8f5273554299458435d5b1,Bill Bryson grew up in a city that is the seat of which county ?,['Polk County'],The Life and Times of the Thunderbolt Kid,"Des Moines, Iowa.",0,0.0
+5a8f55f9554299458435d5bd,What profession did Willi Forst and Elmer Clifton share?,['actor'],Willi Forst,Actor.,1,1.0
+5a8f5a185542992414482a71,Of these two publication--Báiki and Sick--what type of publication is the one that was published most frequently? ,['satirical-humor magazine'],Sick (magazine),Sick.,0,0.0
+5a8f68795542992414482ab5,"What member of the South Korean-Chinese boy group EXO stars in the upcoming movie ""The Underdog""?",['Do Kyung-soo'],The Underdog (film),Do Kyung-soo.,1,1.0
+5a8f799d55429918e830d22d,"Which genus has the most number of species, Myrsine or Styrax?",['Myrsine'],Myrsine,Myrsine has about 200 species.,1,0.33333333333333337
+5a8fc3b155429933b8a20454,In recent decades American schools have included much more on ncient times tens of thousands of years ago with the settlement of the Americas by who?,['Paleo-Indians'],History of Native Americans in the United States,Paleo-Indians.,1,1.0
+5a8ff69655429916514e73f1,"Who co-starred in an episode of The ABC Comedy Hour with the man who played Duke Slater in ""Gomer Pyle, U.S.M.C.""? ",['Jack Cassidy'],The ABC Comedy Hour,Robert Young.,0,0.0
+5a903b7255429933b8a204ae,What Canadian filmmaker created a film about Bettie Page in 2005?,"['Mary Harron (born January 12, 1953)']",Mary Harron,Mary Harron.,0,0.5
+5a90937955429933b8a20568,The father of Manning Marius Kimmel retired from the Navy in what year?,['1942'],Manning Kimmel,Admiral Husband E. Kimmel retired from the Navy in 1942.,1,0.19999999999999998
+5a90945755429933b8a2056c,"John Constantine Williams, Sr was cofounder of a Florida city located in what county?",['Pinellas County'],John Constantine Williams Sr.,Pinellas.,0,0.6666666666666666
+5ab1f494554299706120959c,"Which industrialist established a museum in Heckscher Park that features ""First Friday"" concerts?",['August Heckscher'],"Heckscher Park (Huntington, New York)",August Heckscher.,1,1.0
+5ab26b60554299449642c898,"The brewing company known for making Genny Light, a beer with only 100 calories per 12 ounce portion, and located along the Genesee River, was formerly known by what brewery name?",['High Falls Brewery'],Genesee Brewing Company,High Falls Brewing Company.,0,0.5714285714285715
+5ab2c0de5542992953946870,"Football at the 2006 Asian Games with Wisoon Wichaya as its coach was played how many days prior to the opening ceromony in Doha, Qatar in 2006? ",['14'],Football at the 2006 Asian Games,14 days.,1,0.6666666666666666
+5ab2c418554299545a2cfa67,Ckm wz. 25 Hotchkiss was a Polish derivative of what machine gun that became the standard machine gun of the French Army during World War I?,['Mle 1914 Hotchkiss machine gun'],Hotchkiss M1914 machine gun,M1914 Hotchkiss.,0,0.28571428571428575
+5ab2c7ef554299545a2cfa73,When did the predecessor of The Eyes of Nye first air?,"['September 10, 1993']",Bill Nye the Science Guy,"September 10, 1993.",1,1.0
+5ab322b1554299194fa93570,"Which type of character is featured by the P.L. Travers's third book and last novel in the ""Mary Poppins"" series?",['fictional character'],Mary Poppins (musical),Felixenstien.,0,0.0
+5ab3357d554299166977419d,In which city is the parent company of Sterlite Industries headquartered?,['London'],Vedanta Resources,London.,1,1.0
+5ab3acc9554299753aec5985,"Which genus's family comes first alphabetically, Crepis or Isatis?",['Crepis'],Viruddh... Family Comes First,Crepis.,1,1.0
+5ab3bd7d55429969a97a819f,Which team featured in both the 2012 and 2011 Cops del Rey Finals ?,['Barcelona'],2012 Copa del Rey Final,Barcelona and Athletic Bilbao.,1,0.4
+5ab3bfd3554299233954ff99," The Nike Hoop Summit has had many current NBA players as former participants, including what German player from the Dallas Mavericks?",['Dirk Werner Nowitzki'],Dirk Nowitzki,Dirk Nowitzki.,0,0.8
+5ab3c48755429969a97a81b8,What cuisine is described as a cultural blending of Mediterranean influences (such as those created by Italian and Spanish populations)?,['Argentine cuisine'],Argentine cuisine,Argentine cuisine.,1,1.0
+5ab3cc395542992ade7c6e9f,Party of Syrian Unity was established in the wake of a public statement that announced what ?,"['support for the establishment of a ""national home for the Jewish people"" in Palestine']",Balfour Declaration,The Balfour Declaration.,0,0.0
